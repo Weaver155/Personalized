@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Include Font Awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="profile">
+            <img src="assets/jacob.jpg" alt="Profile Placeholder">
+            <span>Welcome, Jacob!</span>
+        </div>
+        <ul>
+            <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+            <li><a href="#"><i class="fas fa-user"></i> Profile</a></li>
+            <li><a href="#"><i class="fas fa-cog"></i> Settings</a></li>
+           <li><a href="login.html" id="logoutBtn"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+        </ul>
+    </div>
+
+    <div class="content">
+        <div class="header">
+            <div class="interests">
+                <label for="interests">Select your interests:</label>
+                <select id="interests" name="interests">
+                    <option value="sports">Technology</option>
+                    <option value="arts">Marketing</option>
+                    <option value="arts">Health</option>
+                    <option value="arts">Sports</option>
+                    <!-- Add more options as needed -->
+                </select>
+            </div>
+        </div>
+
+        <div class="post-list">
+            <div class="post" id="post1">
+                <h3>Innovative Marketing Strategies: Navigating the Digital Frontier</h3>
+                <p>As businesses evolve in the age of digital dominance, innovative marketing strategies become the compass guiding companies through the uncharted territories of the online landscape.</p>
+                <div class="post-actions">
+                    <button class="edit-btn"><i class="fas fa-edit"></i> Edit</button>
+                    <button class="delete-btn" onclick="deletePost('post1')"><i class="fas fa-trash-alt"></i> Delete</button>
+                </div>
+            </div>
+
+            <div class="post" id="post2">
+                <h3>The Rise of Augmented Reality: Transforming How We See and Interact with the World</h3>
+                <p>Step into a world where the virtual and the tangible seamlessly converge, as augmented reality emerges from the realms of science fiction to redefine our perception of reality and revolutionize the way we engage with the world around us.</p>
+                <div class="post-actions">
+                    <button class="edit-btn"><i class="fas fa-edit"></i> Edit</button>
+                    <button class="delete-btn" onclick="deletePost('post2')"><i class="fas fa-trash-alt"></i> Delete</button>
+                </div>
+            </div>
+
+            <div class="post" id="post3">
+                <h3>The Quantum Leap: Exploring the Frontiers of Quantum Technology</h3>
+                <p>In the intricate dance between particles and possibilities, quantum technology takes center stage, promising a revolution that transcends the boundaries of classical computing and reshapes the very fabric of our technological future.</p>
+                <div class="post-actions">
+                    <button class="edit-btn"><i class="fas fa-edit"></i> Edit</button>
+                    <button class="delete-btn" onclick="deletePost('post3')"><i class="fas fa-trash-alt"></i> Delete</button>
+                </div>
+            </div>
+
+			
+			     <div class="post" id="post4">
+                <h3>Disruptive Innovation: Unleashing the Power of Creative Destruction in Business</h3>
+                <p>In the ever-evolving landscape of commerce, disruptive innovation emerges as both a catalyst for progress and a force that reshapes industries, challenging businesses to adapt or face obsolescence.</p>
+                <div class="post-actions">
+                    <button class="edit-btn"><i class="fas fa-edit"></i> Edit</button>
+                    <button class="delete-btn" onclick="deletePost('post4')"><i class="fas fa-trash-alt"></i> Delete</button>
+                </div>
+            </div>
+            <!-- Add more posts as needed -->
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MessageManager/1.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/MessageManager.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageManager/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oDrD7hO1sfHILyltxY1CbYiv3bCdd/33Woah8fzU3DFR5ZVYX5uTWdMoTW1KH13T34JFrMQtWg++tazk9UvAwA==",
+      "path": "messagemanager/1.1.1",
+      "hashPath": "messagemanager.1.1.1.nupkg.sha512"
+    }
+  }
+}

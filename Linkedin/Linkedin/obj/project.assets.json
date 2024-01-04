@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "MessageManager/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/MessageManager.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/MessageManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageManager/1.1.1": {
+      "sha512": "oDrD7hO1sfHILyltxY1CbYiv3bCdd/33Woah8fzU3DFR5ZVYX5uTWdMoTW1KH13T34JFrMQtWg++tazk9UvAwA==",
+      "type": "package",
+      "path": "messagemanager/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/MessageManager.dll",
+        "lib/net462/MessageManager.dll",
+        "lib/net47/MessageManager.dll",
+        "lib/net472/MessageManager.dll",
+        "lib/netcoreapp3.0/MessageManager.dll",
+        "messagemanager.1.1.1.nupkg.sha512",
+        "messagemanager.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "MessageManager >= 1.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Burhan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\courses\\projects\\Web Projects\\selenium\\Linkedin\\Linkedin\\Linkedin.csproj",
+      "projectName": "Linkedin",
+      "projectPath": "F:\\courses\\projects\\Web Projects\\selenium\\Linkedin\\Linkedin\\Linkedin.csproj",
+      "packagesPath": "C:\\Users\\Burhan\\.nuget\\packages\\",
+      "outputPath": "F:\\courses\\projects\\Web Projects\\selenium\\Linkedin\\Linkedin\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Burhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "MessageManager": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

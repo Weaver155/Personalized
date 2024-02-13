@@ -19,3 +19,33 @@ E:\projects\Web Projects\selenium\Linkedin\Linkedin\obj\Debug\net8.0-windows\Lin
 E:\projects\Web Projects\selenium\Linkedin\Linkedin\bin\Debug\net8.0-windows\MessageManager.dll
 E:\projects\Web Projects\selenium\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.csproj.AssemblyReference.cache
 E:\projects\Web Projects\selenium\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.csproj.CopyComplete
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\Linkedin.exe
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\Linkedin.deps.json
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\Linkedin.runtimeconfig.json
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\Linkedin.dll
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\Linkedin.pdb
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\MessageManager.dll
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.Form1.resources
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.Form2.resources
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.Properties.Resources.resources
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.AssemblyInfo.cs
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.sourcelink.json
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.csproj.CopyComplete
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.dll
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\refint\Linkedin.dll
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.pdb
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.genruntimeconfig.cache
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\ref\Linkedin.dll
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.Form3.resources
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\obj\Debug\net8.0-windows\Linkedin.Form4.resources
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\selenium-manager\linux\selenium-manager
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\selenium-manager\macos\selenium-manager
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\WebDriver.Support.dll
+\\Mac\Home\Desktop\Personalized\Linkedin\Linkedin\bin\Debug\net8.0-windows\WebDriver.dll

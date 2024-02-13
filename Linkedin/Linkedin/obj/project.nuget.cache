@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "cHHBl+2EfpH8MOeE+Iw5jZh/3F+bcVeOog/r0YmFszrkcB7nEWHIagPGDNYWw/IBFF7TItqjt/iOW+0k2aDdVg==",
+  "dgSpecHash": "mXKe2YJj81s2UrGPrcsoRUssls8yFvyZvh9xUmaNgRuwP1hMOLng0WC3InkNp7dcbW4PER0oquglBfnWOCCFBw==",
   "success": true,
-  "projectFilePath": "F:\\courses\\projects\\Web Projects\\selenium\\Linkedin\\Linkedin\\Linkedin.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\Personalized\\Linkedin\\Linkedin\\Linkedin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Burhan\\.nuget\\packages\\messagemanager\\1.1.1\\messagemanager.1.1.1.nupkg.sha512"
+    "C:\\Users\\burhan\\.nuget\\packages\\messagemanager\\1.1.1\\messagemanager.1.1.1.nupkg.sha512",
+    "C:\\Users\\burhan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\burhan\\.nuget\\packages\\selenium.support\\4.17.0\\selenium.support.4.17.0.nupkg.sha512",
+    "C:\\Users\\burhan\\.nuget\\packages\\selenium.webdriver\\4.17.0\\selenium.webdriver.4.17.0.nupkg.sha512",
+    "C:\\Users\\burhan\\.nuget\\packages\\selenium.webdriver.chromedriver\\121.0.6167.8500\\selenium.webdriver.chromedriver.121.0.6167.8500.nupkg.sha512"
   ],
   "logs": []
 }
